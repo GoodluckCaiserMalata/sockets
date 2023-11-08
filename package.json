@@ -1,0 +1,31 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cellulant/checkout_encryption": "^1.0.4",
+    "btoa": "^1.2.1",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^2.0.20",
+    "react-softphone": "^1.7.0",
+    "request": "^2.88.2",
+    "websocket": "^1.0.34",
+    "ws": "^8.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodluckCaiserMalata/socketConnectionBeem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GoodluckCaiserMalata/socketConnectionBeem/issues"
+  },
+  "homepage": "https://github.com/GoodluckCaiserMalata/socketConnectionBeem#readme",
+  "description": ""
+}

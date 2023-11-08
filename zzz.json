@@ -1,0 +1,25 @@
+{
+    "type": "object",
+    "required": ["input", "sessionid", "msisdn", "newrequest"],
+    "properties": {
+        "input": {
+            "type": "string"
+        },
+        "sessionid": {
+            "type": "string"
+        },
+        "msisdn": {
+            "type": "string"
+        },
+        "IMSI": {
+            "type": ["string","null"]
+        },
+        "newrequest": {
+            "type": ["string", "number"]
+        },
+        "SHORT_CODE": {
+            "type": "string"
+        }
+    }
+}
+
